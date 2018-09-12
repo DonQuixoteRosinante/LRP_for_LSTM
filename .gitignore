@@ -1,10 +1,5 @@
-
-
-.ipynb_checkpoints/
+.idea/*
+*.csv
+model_comparison/*
 __pycache__/
-*.pyc
-
-
-
-
-
+model/*
